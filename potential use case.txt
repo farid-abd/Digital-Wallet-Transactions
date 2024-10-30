@@ -2,8 +2,8 @@ Potential Use Cases
 
 - Analyzing spending patterns across different product categories
 - Studying the effectiveness of cashback and loyalty programs
-- Investigating the relationship between payment methods and transaction success rates
+- Investigating the relationship between payment methods and transaction success rates (done)
 - Exploring seasonal trends in digital wallet usage
 - Developing fraud detection models based on transaction patterns
 - Segmenting users based on their spending behavior
-- Analyzing the popularity of different merchants and services
+- Analyzing the popularity of different merchants and services (semi done)
